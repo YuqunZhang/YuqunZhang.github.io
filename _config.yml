@@ -10,7 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default"
 title                    : "Yuqun Zhang"
-title_separator          : "-"
+title_separator          : "AI Explorer"
 name                     : &name "Yuqun Zhang"
 description              : &description "personal description"
 url                      : https://YuqunZhang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
@@ -26,9 +26,9 @@ author:
   name             : "Yuqun Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "GolGrin / CIJUN AI"
-  uri              : # URL
+  location         : "Shenzhen,Guangdong,China"
+  employer         : "GolGrin / CIJUNAI / DarongshuAI"
+  url              : # URL
   email            : "zhangyuqun0909@gmail.com" 
 
   # Academic websites
