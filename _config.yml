@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "yuqunzhang.jpg"
   name             : "Yuqun Zhang"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "he/him"# example: "she/her"  
+  bio              : "A researcher in artificial intelligence and robotics"
   location         : "Shenzhen,Guangdong,China"
   employer         : "GolGrin / CIJUNAI / DarongshuAI"
   url              : # URL
